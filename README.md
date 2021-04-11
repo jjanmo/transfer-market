@@ -4,7 +4,6 @@
 
 > BeautifulSoup, Pandas에 대한 사용법을 알아보자 🚀
 
-> 
 
 ## 알아둬야 할 것들
 
@@ -26,7 +25,6 @@
 
 ![web](./images/web.png)
 
-## BeautifulSoup 사용법
 
 
 
