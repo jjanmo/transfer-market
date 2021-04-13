@@ -21,10 +21,24 @@
 `https:// [사이트명] /robots.txt` 로 접근하면 해당 문서를 볼 수 있다.
 
 
-### 웹 동장 방식
+### 웹 동작 방식
 
 ![web](./images/web.png)
 
 
 
+### BeautifulSoup의 기본적인 사용법
 
+
+### Pandas의 기본적인 사용법
+
+참고사이트 : [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+
+![pandas1](./images/pandas1.png)
+
+![pandas2](./images/pandas2.png)
+
+
+## 크롤링 페이지 만들기
+
+크롤링한 정보를 토대로 `flask`를 사용하여 간단한 웹페이지를 구현할 예정이다.
