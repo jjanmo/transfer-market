@@ -1,10 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Orelega+One&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}" />
+    <title>Player</title>
 </head>
 <body>
-$END$
+    <h1>Player</h1>
+    이름 : {{user}} <br/>
+     a  : {{data.a}} <br/>
+     b  : {{data.b}} <br/>
 </body>
 </html>
