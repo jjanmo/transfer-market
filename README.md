@@ -26,19 +26,19 @@
 ![web](./images/web.png)
 
 
+### 크롤링에 필요한 라이브러리들
 
-### BeautifulSoup의 기본적인 사용법
+> Requests & BeautifulSoup
 
+- [Requests](https://docs.python-requests.org/en/master/) 
+
+- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 ### Pandas의 기본적인 사용법
 
-참고사이트 : [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+- [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
 ![pandas1](./images/pandas1.png)
 
 ![pandas2](./images/pandas2.png)
 
-
-## 크롤링 페이지 만들기
-
-크롤링한 정보를 토대로 `flask`를 사용하여 간단한 웹페이지를 구현할 예정이다.
